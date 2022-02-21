@@ -15,7 +15,7 @@ let port: string | number | false;
         /**
          * Get port from environment and store in Express.
          */
-        port = normalizePort('9021');
+        port = normalizePort('3000');
         app.set('port', port);
         /**
          * Create HTTP server.
