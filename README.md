@@ -8,6 +8,9 @@ Me alegra llegar hasta este punto de enviar la solución para la prueba técnica
 
 In the project directory, you can run:
 
+### `npm build`
+luego 
+
 ### `npm start`
 
 Runs the app in the development mode.\
